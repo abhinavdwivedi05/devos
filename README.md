@@ -1,3 +1,9 @@
+# DevOS
+
+🚀 Live Demo: https://your-vercel-url.vercel.app
+
+The Operating System for Developers.
+
 # DevOS Monorepo — The Developer Workspace Operating System
 
 DevOS is a high-performance, dark-first productivity cockpit for developers, consolidating tools like GitHub analytics, LeetCode calculators, projects boards, notes notebooks, and career pipeline boards in one dashboard.
